@@ -17,4 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigoyoga&show_icons=true&locale=en" alt="tigoyoga" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigoyoga)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=tigoyoga)
    
