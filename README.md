@@ -15,29 +15,29 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   23.42% 
-🌃 Evening    93 commits     ██████████████░░░░░░░░░░░   58.86% 
-🌙 Night      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   23.12% 
+🌃 Evening    95 commits     ██████████████░░░░░░░░░░░   59.38% 
+🌙 Night      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Sunday       47 commits     ███████░░░░░░░░░░░░░░░░░░   29.75%
+Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Sunday       47 commits     ███████░░░░░░░░░░░░░░░░░░   29.38%
 
 ```
 
@@ -48,24 +48,23 @@ Sunday       47 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               11 hrs              ████████████████████░░░░░   80.78% 
-TypeScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+JavaScript               9 hrs 42 mins       ████████████████████████░   96.59% 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  13 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 3 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mabacup22-frontend       8 hrs 47 mins       ████████████████░░░░░░░░░   64.46% 
-ilits-2023-frontend-dev  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-landing-2022             1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-login-auth               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-schematics-dashboard-202218 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+mabacup22-frontend       7 hrs 15 mins       ██████████████████░░░░░░░   72.1% 
+landing-2022             1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+login-auth               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+schematics-dashboard-202226 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 
 💻 Operating System: 
-Windows                  13 hrs 38 mins      █████████████████████████   100.0%
+Windows                  10 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +81,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 13:04:39 UTC
+ Last Updated on 22/10/2022 12:57:19 UTC
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigoyoga&show_icons=true&locale=en" alt="tigoyoga" /></p>
