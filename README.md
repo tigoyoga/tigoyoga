@@ -15,29 +15,29 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-🌆 Daytime    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.89% 
-🌃 Evening    102 commits    ███████████████░░░░░░░░░░   60.36% 
-🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06%
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   22.81% 
+🌃 Evening    102 commits    ███████████████░░░░░░░░░░   59.65% 
+🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
-Sunday       47 commits     ███████░░░░░░░░░░░░░░░░░░   27.81%
+Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Tuesday      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
+Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Sunday       47 commits     ██████░░░░░░░░░░░░░░░░░░░   27.49%
 
 ```
 
@@ -48,41 +48,41 @@ Sunday       47 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               5 hrs 47 mins       ███████████████░░░░░░░░░░   63.01% 
-HTML                     2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.98% 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+JavaScript               4 hrs 56 mins       ██████████████░░░░░░░░░░░   59.48% 
+HTML                     2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   35.44% 
+TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 17 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mabacup22-frontend       3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   34.5% 
-learn-react-router       1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-exclusivity-master       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-tugas-dee-canawine       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-PWEB                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.55%
+mabacup22-frontend       3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   38.24% 
+learn-react-router       1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+exclusivity-master       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+tugas-dee-canawine       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+PWEB                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.48%
 
 💻 Operating System: 
-Windows                  9 hrs 11 mins       █████████████████████████   100.0%
+Windows                  8 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████████████░░░░░░░░░░   62.5% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 31/10/2022 12:59:58 UTC
+ Last Updated on 01/11/2022 13:05:40 UTC
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigoyoga&show_icons=true&locale=en" alt="tigoyoga" /></p>
