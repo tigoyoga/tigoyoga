@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Tigo Yoga</h1>
 <h3 align="center">A passionate frontend developer and Informatics student</h3>
 
@@ -11,7 +12,7 @@
 <a href="https://instagram.com/tigoyoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tigoyoga" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="center">Main Stack</h3>
 <div align="center">
@@ -33,7 +34,6 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm a Night 🦉** 
