@@ -100,3 +100,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 05/11/2022 12:46:32 UTC
 <!--END_SECTION:waka-->
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigoyoga&layout=compact)](https://github.com/tigoyoga)
