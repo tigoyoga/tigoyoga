@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -96,7 +96,7 @@ R                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2023 12:36:19 UTC
+ Last Updated on 21/08/2023 12:40:00 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
