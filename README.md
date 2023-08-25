@@ -35,7 +35,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,18 +66,18 @@ Sunday                   759 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       █████████████████████████   99.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               4 hrs 30 mins       █████████████████████████   99.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-geosentric-fe            3 hrs 37 mins       ████████████████████████░   95.48 % 
-mechanical-fe            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+geosentric-fe            4 hrs 20 mins       ████████████████████████░   96.20 % 
+mechanical-fe            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +93,7 @@ R                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 12:39:51 UTC
+ Last Updated on 25/08/2023 12:39:09 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
