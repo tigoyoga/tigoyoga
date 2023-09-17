@@ -1,4 +1,4 @@
-
+<br/>
 <h1 align="center">Hi 👋, I'm Tigo Yoga</h1>
 <h3 align="center">A passionate frontend developer and Informatics student</h3>
 
