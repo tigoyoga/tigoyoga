@@ -1,4 +1,3 @@
-<br/>
 <h1 align="center">Hi 👋, I'm Tigo Yoga</h1>
 <h3 align="center">A passionate frontend developer and Informatics student</h3>
 
@@ -12,10 +11,8 @@
 <a href="https://instagram.com/tigoyoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tigoyoga" height="30" width="40" /></a>
 </p>
 
-
 <br/>
 <br/>
-
 
 <h3 align="center">Main Stack</h3>
 <div align="center">
