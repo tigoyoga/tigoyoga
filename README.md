@@ -34,6 +34,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -93,7 +95,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2024 12:39:34 UTC
+ Last Updated on 16/04/2024 12:41:43 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
