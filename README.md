@@ -65,20 +65,16 @@ Sunday                   973 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 mins             █████████████░░░░░░░░░░░░   53.93 % 
-JavaScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Web Dev PROJECT          23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +90,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2024 12:40:41 UTC
+ Last Updated on 20/04/2024 12:39:52 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
