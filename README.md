@@ -34,7 +34,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 12:42:14 UTC
+ Last Updated on 19/05/2024 12:42:47 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
