@@ -34,6 +34,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
@@ -91,7 +93,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 12:43:37 UTC
+ Last Updated on 16/06/2024 12:43:46 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
