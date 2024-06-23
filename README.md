@@ -65,16 +65,18 @@ Sunday                   1024 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              ██████████████░░░░░░░░░░░   55.06 % 
+JavaScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+laravel-update           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +92,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 12:44:30 UTC
+ Last Updated on 23/06/2024 12:43:51 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga)](https://github.com/tigoyoga)
