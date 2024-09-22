@@ -35,7 +35,11 @@
 <div align="center"> <a href="https://wakatime.com/@tigoyoga"><img src="https://wakatime.com/badge/user/b26234dd-8316-4b9a-a01d-d6283b1707e3.svg" alt="Wakatime" /></a> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tigoyoga/tigoyoga?style=flat">
  </div> <figure align="center"> <embed src="https://wakatime.com/share/@tigoyoga/8df28967-9033-428f-b990-ffcb628dac8f.svg"></embed> </figure>
 
-# 📊 Programming Languages
+# 📊 Coding Stats
+
+[![tigoyoga's github stats](https://github-readme-stats.vercel.app/api?username=tigoyoga&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![tigoyoga's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigoyoga&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img src="https://wakatime.com/share/@tigoyoga/e9c2da83-887a-4733-a49f-9e09dede8bdc.svg" alt="WakaTime Stats" />
