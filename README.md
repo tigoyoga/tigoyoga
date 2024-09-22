@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tigo Yoga</h1>
-<h3 align="center">A passionate frontend developer and Informatics student</h3>
-
-- 🌱 I’m currently learning **[Next JS, Typescript, Laravel]**
+<h1 align="center">Hi, I'm Tigo Yoga</h1> <h3 align="center">Frontend Developer | Informatics Engineering Student</h3> <p align="center"> <em>“Passionate about crafting seamless user interfaces and enriching the web experience.”</em> </p>
 
 - 📫 How to reach me **tigo.yoga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tigo s yoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigo s yoga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tigoyoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigo s yoga" height="30" width="40" /></a>
 <a href="https://instagram.com/tigoyoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tigoyoga" height="30" width="40" /></a>
 </p>
 
 <br/>
 <br/>
+
 
 <h3 align="center">Main Stack</h3>
 <div align="center">
@@ -33,9 +31,8 @@
   <a href="">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
 </div>
 
-<!--START_SECTION:waka-->
-[![code time](https://wakatime.com/badge/user/b26234dd-8316-4b9a-a01d-d6283b1707e3.svg)](https://wakatime.com/@b26234dd-8316-4b9a-a01d-d6283b1707e3)
+<br/>
+<div align="center"> <a href="https://wakatime.com/@tigoyoga"><img src="https://wakatime.com/badge/user/b26234dd-8316-4b9a-a01d-d6283b1707e3.svg" alt="Wakatime" /></a> <img src="http://img.shields.io/badge/Profile%20Views-1-blue" alt="Profile Views" /> </div> <figure align="center"> <embed src="https://wakatime.com/share/@tigoyoga/8df28967-9033-428f-b990-ffcb628dac8f.svg"></embed> </figure>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
+# 📊 Coding Stats
 <figure><embed src="https://wakatime.com/share/@tigoyoga/8df28967-9033-428f-b990-ffcb628dac8f.svg"></embed></figure>
