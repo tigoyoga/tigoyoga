@@ -34,7 +34,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%204%20mins-blue)
+[![code time](https://wakatime.com/badge/user/b26234dd-8316-4b9a-a01d-d6283b1707e3.svg)](https://wakatime.com/@b26234dd-8316-4b9a-a01d-d6283b1707e3)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
