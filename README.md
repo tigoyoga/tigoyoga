@@ -34,5 +34,5 @@
 <br/>
 <div align="center"> <a href="https://wakatime.com/@tigoyoga"><img src="https://wakatime.com/badge/user/b26234dd-8316-4b9a-a01d-d6283b1707e3.svg" alt="Wakatime" /></a> <img src="http://img.shields.io/badge/Profile%20Views-1-blue" alt="Profile Views" /> </div> <figure align="center"> <embed src="https://wakatime.com/share/@tigoyoga/8df28967-9033-428f-b990-ffcb628dac8f.svg"></embed> </figure>
 
-# 📊 Coding Stats
-<figure><embed src="https://wakatime.com/share/@tigoyoga/8df28967-9033-428f-b990-ffcb628dac8f.svg"></embed></figure>
+# 📊 Programming Languages
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tigoyoga/c7ae4aac-f4fe-4399-b735-7cca9eae35b8.png" /></a>
