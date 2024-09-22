@@ -14,6 +14,8 @@
 <br/>
 <br/>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tigoyoga/3ed8a55d-3f9f-42e0-807f-449fa3a77680.png" /></a>
+
 <h3 align="center">Main Stack</h3>
 <div align="center">
   
